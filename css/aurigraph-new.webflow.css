@@ -2188,7 +2188,7 @@ figcaption {
 .browser-mockup-right {
   position: absolute;
   top: -35px;
-  right: -395px;
+  right: -350px;
   width: 770px;
   border: 1px solid #e6e6e6;
   border-radius: 3px;
@@ -2646,7 +2646,7 @@ figcaption {
 
 .browser-mockup-left {
   position: absolute;
-  left: -370px;
+  left: -350px;
   top: -25px;
   width: 790px;
   border: 1px solid #e2e2e2;
@@ -4730,6 +4730,13 @@ figcaption {
 
 .div-block {
   text-align: center;
+}
+
+.image-3 {
+  display: block;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 html.w-mod-js *[data-ix="hide-block-title"] {
